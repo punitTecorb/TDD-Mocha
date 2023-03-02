@@ -1,7 +1,7 @@
-# TDD-Mocha 
+# TDD-Mocha using nodejs with TypeScript 
 
 ## Introduction
-   Test cases in nodejs using mocha and chai.
+   Test cases using mocha and chai library.We have create demo test case.
     
 ## Setup Steps:
 `npm install`
