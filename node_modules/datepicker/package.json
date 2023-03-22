@@ -1,0 +1,18 @@
+{
+  "name": "datepicker",
+  "version": "0.0.0",
+  "description": "datepicker base on neuron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.dianpingoa.com:f2e/neuro-datepicker.git"
+  },
+  "keywords": [
+    "datepicker"
+  ],
+  "author": "island205@gmail.com",
+  "license": "BSD"
+}
