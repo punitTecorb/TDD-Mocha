@@ -22,7 +22,7 @@ Idea for working in backend technology.
    Api path - src/controllers/admin/
 
 ## Test cases
-   path - src/test/
+   path - src/test
 
 ## Installing Dependencies
 Express
