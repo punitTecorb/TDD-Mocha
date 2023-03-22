@@ -36,7 +36,7 @@ describe('Admin Authentication ***********************************', () => {
    Api path - src/controllers/admin/
 
 ## For test cases
-   path - src/controllers/test
+   path - src/test
 
 ## Installation
     npm install
