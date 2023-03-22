@@ -1,4 +1,5 @@
-## Write test cases using Mocha in Nodejs
+## test cases using Mocha in Nodejs
+
 ## Introduction
 TDD (Test Driven Approach) in node js. TDD by using mocha and chai..Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases`    
 
@@ -30,6 +31,12 @@ describe('Admin Authentication ***********************************', () => {
     });
 
 });
+
+## For Api code
+   Api path - src/controllers/admin/
+
+## For test cases
+   path - src/controllers/test
 
 ## Installation
     npm install
