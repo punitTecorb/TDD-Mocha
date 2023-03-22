@@ -20,6 +20,9 @@ Idea for working in backend technology.
 
 ## Api code
    Api path - src/controllers/admin/
+=======
+## For test cases
+   path - src/test
 
 ## Test cases
    path - src/test
