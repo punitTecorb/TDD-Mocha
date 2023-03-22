@@ -13,8 +13,11 @@ Chai:Chai is a BDD / TDD assertion library for node and the browser that can be 
 
 ## Prerequisites
 Express
+
 Mongodb
+
 Understanding of rest api
+
 Idea for working in backend technology.
 
 
@@ -26,12 +29,19 @@ Idea for working in backend technology.
 
 ## Installing Dependencies
 Express
+
 Mongoose
+
 Dotenv
+
 Bcryptjs
-Jsonwebtoken
+
+
+
 Mocha: npm install mocha
+
 Chai: npm install chai
+
 Chai-http: npm install chai-http
 
 ## DB Setup
