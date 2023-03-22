@@ -1,4 +1,4 @@
-## Test cases using Mocha in Nodejs
+## Test cases using Mocha in Nodejs with typescript
 
 ## Introduction
 Test-driven development (TDD) is an evolutionary approach to development which combines test-first development where you write a test before you write just enough production code to fulfill that test and refactoring. In simple terms, test cases are created before code is written.
@@ -22,7 +22,7 @@ Idea for working in backend technology.
    Api path - src/controllers/admin/
 
 ## Test cases
-   path - src/test
+   path - src/test/
 
 ## Installing Dependencies
 Express
