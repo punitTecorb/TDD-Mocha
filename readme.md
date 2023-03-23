@@ -18,8 +18,11 @@ What we have implemented in this project?
 ## Required dependencies:
 
 Node is installed (v 16.16.0)
+
 npm is installed (v 8.11.0)
+
 mongodb is installed
+
 Git is installed
 
 ## Prerequisites
@@ -66,6 +69,7 @@ Chai-http: npm install chai-http
 
 ## Server
 PORT=3009
+
 HOST=localhost
 
 
