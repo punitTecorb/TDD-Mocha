@@ -9,7 +9,11 @@ For testing purposes we are using mocha & chais.
 
 Mocha: Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
 
-Chai:Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+Chai:Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript 
+testing framework.
+
+What we have implemented in this project?
+1. User login via email and password.
 
 ## Prerequisites
 Express
