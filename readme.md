@@ -15,15 +15,29 @@ testing framework.
 What we have implemented in this project?
 1. User login via email and password.
 
+## Required dependencies:
+
+Node is installed (v 16.16.0)
+npm is installed (v 8.11.0)
+mongodb is installed
+Git is installed
+
 ## Prerequisites
 Express
-
-Mongodb
 
 Understanding of rest api
 
 Idea for working in backend technology.
 
+## Create development.env to setup required environment variables
+
+Go to the pre-start folder and env>development.env file directory
+
+NODE_ENV=development
+
+jwt_secret_key=""
+
+MONGO_URI=""
 
 ## Api code
    Api path - src/controllers/admin/
@@ -40,8 +54,6 @@ Dotenv
 
 Bcryptjs
 
-
-
 Mocha: npm install mocha
 
 Chai: npm install chai
@@ -51,6 +63,10 @@ Chai-http: npm install chai-http
 ## DB Setup
     use mongodb so go to mongodb create the cluster and get the url from connection and add in .env file.
     DB_URL = "****"
+
+## Server
+PORT=3009
+HOST=localhost
 
 
 ## Setup Steps:
